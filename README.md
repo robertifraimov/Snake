@@ -1,0 +1,2 @@
+# Snake
+vanilla javascript
